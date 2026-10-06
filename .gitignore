@@ -14,5 +14,7 @@ Thumbs.db
 desktop.ini
 
 # IDE / temporary files
+# Packaged Windows application
+/deployment/
 *.tmp
 *.bak
