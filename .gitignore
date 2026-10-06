@@ -1,0 +1,18 @@
+# NetBeans generated files
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# Windows generated files
+Thumbs.db
+desktop.ini
+
+# IDE / temporary files
+*.tmp
+*.bak
